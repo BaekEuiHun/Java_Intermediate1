@@ -19,6 +19,10 @@ public class StringBilderMain1_1 {
 
         sb.reverse();
         System.out.println("reverse : " + sb);
+
+        //StringBuilder -> String (불변으로)
+        String string = sb.toString();
+        System.out.println("string : " + string);
     }
 
 

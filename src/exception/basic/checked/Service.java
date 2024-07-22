@@ -11,7 +11,7 @@ public class Service {
             System.out.println("예외처리, message = " + e.getMessage());
 
         }
-        System.out.println("정상 흐름");
+        System.out.println("정상흐름");
 
     }
 

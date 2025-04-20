@@ -16,6 +16,7 @@ public class NestedOuter {
 
             //바깥 클래스의 클래스 멤버에는 접근 가능. private 접근 가능
             System.out.println(NestedOuter.outClassValue);
+            
 
         }
     }
